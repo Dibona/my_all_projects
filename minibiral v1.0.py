@@ -9,5 +9,7 @@ if z == "yes":
 	for i in range(f):
 		os.system(f"rmdir {file_name}{i}")
 else:
-	print("Thanks for using my program")	
+	print("Thanks for using my program")
+
+print("mew")	
 	
