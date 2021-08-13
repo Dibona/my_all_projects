@@ -1,3 +1,0 @@
-git add . --for adding the files
-git commit -m "commit_details" --for tracking the changes
-git push -u origin master --for pushing all commited files
