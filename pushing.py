@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 time = str(datetime.now())
-x = input("commit name")
+x = input("Commit Name: ")
 
 
 if x == "":
